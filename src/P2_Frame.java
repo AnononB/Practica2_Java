@@ -7,4 +7,9 @@ public class P2_Frame {
     private JButton ButtMulti;
     private JButton ButtDividir;
     //Botones agregados y con nombres cambiados
+
+
+    public static void main(String[] args) {
+
+    }
 }
