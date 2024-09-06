@@ -1,6 +1,6 @@
 public class Calculadora {
 
-    public String sumar(String a, String b) {
+    public static String sumar(String a, String b) {
         String res = "";
         res = (double) (Integer.parseInt(a) + Integer.parseInt(b)) + "";
         return res;
